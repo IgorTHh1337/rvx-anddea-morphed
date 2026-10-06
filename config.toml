@@ -16,7 +16,7 @@ archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 rv-brand = "anddea Morphe"
 build-mode = "apk"
-version = "20.51.39"
+version = "21.13.164"
 included-patches = "'MaterialYou'"
 patcher-args = "-e 'Custom branding icon for YouTube' -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
