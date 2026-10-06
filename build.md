@@ -1,5 +1,6 @@
 AnddeaYouTubeMusicRVXAPK (arm64-v8a): 9.15.51  
 AnddeaYouTubeMusicRVXAPK (arm-v7a): 9.15.51  
+AnddeaYouTubeRVXAPK: 21.13.164  
 
 Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases) or [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
