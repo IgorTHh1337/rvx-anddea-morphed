@@ -1,7 +1,7 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
-patches-version = "v4.3.1-dev.1"
+patches-version = "v4.4.0-dev.3"
 cli-source = "MorpheApp/morphe-cli"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
@@ -16,7 +16,7 @@ archive-dlurl = "https://archive.org/download/thh-apks/yt"
 patches-source = "anddea/revanced-patches"
 rv-brand = "anddea Morphe"
 build-mode = "apk"
-version = "21.13.164"
+version = "21.39.525"
 included-patches = "'MaterialYou'"
 patcher-args = "-e 'Custom branding icon for YouTube' -e 'Custom header for YouTube' -e 'GmsCore support' -OpackageNameYouTube=app.revanced.android.youtube "
 
@@ -27,7 +27,7 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea Morphe"
 arch = "both"
 build-mode = "apk"
-version = "9.15.51"
+version = "9.40.51"
 patcher-args = "-e 'Custom branding icon for YouTube Music' -e 'Custom header for YouTube Music' -e 'GmsCore support' -OpackageNameYouTubeMusic=app.revanced.android.apps.youtube.music "
 
 
